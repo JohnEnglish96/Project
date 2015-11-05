@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemoryMatch1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_game_board">Board Selector</string>
++    <string name="title_activity_memory">Memory Match</string>
++    <string name="gameScreenIntro">Memory Match Game</string>
+
+</resources>
